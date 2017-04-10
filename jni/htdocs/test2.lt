@@ -1,0 +1,13 @@
+<html>
+<head><title>Test1 in lua template</title>
+</head>
+<body>
+
+hello world
+
+HOME=${HOME}<br>
+
+$(string.sub("12345",2))            
+
+</body>
+</html>

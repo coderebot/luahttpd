@@ -1,0 +1,16 @@
+libs
+obj
+*.o
+luahttpd
+t.c
+t.cc
+t.out
+t1.c
+t1.cc
+tags
+local.properties
+*.swp
+*.swo
+*~
+t.txt
+t.log
